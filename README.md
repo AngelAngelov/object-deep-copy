@@ -1,4 +1,6 @@
 # object-deep-copy
+[![npm](https://img.shields.io/badge/npm-v1.0.2-green.svg)](https://www.npmjs.com/package/object-deep-copy)
+
 Deep copy of primitive types, Object, Array, Date, RegExp ...
 
 ### Install
